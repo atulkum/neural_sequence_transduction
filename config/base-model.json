@@ -1,0 +1,14 @@
+{
+  "input_size":39,
+  "lstm_dim":128,
+  "lr":1e-4,
+  "momentum":0.9,
+  "init_range": 0.1,
+  "noise_range": 0.6,
+  "blank_threshold":0.995,
+  "batch_size": 1,
+  "num_epoch": 96,
+  "warmup_steps": 0,
+  "max_grad_norm": 1.0,
+  "dropout_rate": 0.075
+}
